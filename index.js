@@ -1,7 +1,9 @@
 const testUrls = [
   'https://memegen-link-examples-upleveled.netlify.app/',
-  'https://memegen.link/examples/',
+  'https://netlify.com/',
   'https://lutfhi.netlify.app/',
+  // successful fetch test
+  'https://memegen.link/examples/',
 ];
 
 async function testFetch(url) {
